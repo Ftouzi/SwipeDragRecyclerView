@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwipeDragRecyclerView</string>
+
+    <string name="community">Humoule</string>
+    <string name="honey_neutrons">Developed by</string>
+
+    <string name="action_about">About</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="item_undo">Undo</string>
+
+</resources>
