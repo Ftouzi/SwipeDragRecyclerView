@@ -1,6 +1,6 @@
 # Swipe Drag RecyclerView 
 
-Android sample demonstrate how to swipe to dismiss items and drag items from RecyclerView?
+Android sample demonstrate how to swipe to dismiss and drag items into RecyclerView.
 
 # Demo
 ![ScreenShot](http://zupimages.net/up/16/39/a8xg.gif)
